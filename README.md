@@ -1,1 +1,1 @@
-# -Synthetic-Data-Vault
+# Synthetic Data Vault
